@@ -20,4 +20,4 @@ Este framework combina estándares reconocidos en la industria (Diamond Model, M
 
 ## Estado actual
 
-Este repositorio está en construcción activa. Los primeros análisis siguiendo esta metodología se irán publicando progresivamente conforme avance en mi formación en CTI (LISA, UAI Ciberinteligencia, arcX).
+Este repositorio está en construcción activa. Los primeros análisis siguiendo esta metodología se irán publicando progresivamente conforme avance en mi formación en CTI.
