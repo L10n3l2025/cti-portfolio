@@ -8,16 +8,15 @@ Analista SOC N1 en SyA Chile, en desarrollo activo hacia una especialización en
 
 ## 📂 Contenido
 
+### Sobre este portafolio
+- [**Metodología de análisis**](./methodology.md) — framework que aplico en cada análisis (Diamond Model, MITRE ATT&CK, Sigma).
+- [**Fuentes y herramientas de vigilancia**](./resources.md) — panel de monitoreo de amenazas y fuentes OSINT.
+
 ### Análisis de amenazas
-- [**Qilin Ransomware — Análisis dirigido a organizaciones chilenas (2026)**](./malware-analysis/qilin-ransomware-2026/) — Diamond Model, mapeo MITRE ATT&CK (20 técnicas), 5 reglas Sigma de detección, kill chain narrativo.
+- *(próximamente)* — primer análisis en desarrollo siguiendo la metodología descrita.
 
 ### Herramientas y scripts
-- [**CTI Workflow Script**](./scripts/cti-workflow/) — Automatización en Python para recolección de IOCs, deduplicación, enriquecimiento (VirusTotal, AbuseIPDB) y mapeo a MITRE ATT&CK con generación de reportes en Markdown.
-
-### Reportes de IOCs
-- *(próximamente — reportes generados con el script de CTI Workflow)*
-
----
+- *(próximamente)* — scripts de automatización CTI en desarrollo.
 
 ## 🧰 Stack y herramientas
 
