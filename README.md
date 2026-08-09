@@ -20,10 +20,10 @@ Analista SOC N1 en SyA Chile, en desarrollo activo hacia una especialización en
 
 ## 🧰 Stack y herramientas
 
-**SIEM / Monitoreo:** QRadar, Symantec SGM, Kaspersky, Fortinet, Trellix
-**Análisis y OSINT:** VirusTotal, AbuseIPDB, Shodan, MITRE ATT&CK, CyberChef, Maltiverse
-**Automatización:** Python
-**Frameworks:** MITRE ATT&CK, Diamond Model, Sigma Rules
+**SIEM / Monitoreo:** QRadar, Symantec SGM, Kaspersky, Fortinet, Trellix.
+**Análisis y OSINT:** VirusTotal, AbuseIPDB, Shodan, MITRE ATT&CK, CyberChef, Maltiverse.
+**Automatización:** Python.
+**Frameworks:** MITRE ATT&CK, Diamond Model.
 
 ---
 
@@ -31,7 +31,7 @@ Analista SOC N1 en SyA Chile, en desarrollo activo hacia una especialización en
 
 - Técnico de Nivel Superior en Ciberseguridad — IPP *(titulado)*
 - Ingeniería en Ciberseguridad — IACC *(en curso)*
-- Certificaciones: ISC2 CC, IBM QRadar SIEM Foundation, Fortinet FCF, arcX FTIA, entre otras
+- Certificaciones: ISC2 CC, IBM QRadar SIEM Foundation, Fortinet FCF, arcX FTIA, entre otras.
 - Formación CTI en curso: LISA (Analista CTI N1).
 
 ---
